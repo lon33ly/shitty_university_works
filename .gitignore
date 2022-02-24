@@ -180,3 +180,6 @@ fabric.properties
 # igonre def debug files
 /cmake-build-debug
 CMakeLists.txt
+
+# macos files
+.DS_Store
