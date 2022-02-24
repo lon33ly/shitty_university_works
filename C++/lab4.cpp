@@ -1,6 +1,4 @@
 #include <iostream>
-#include <cstring>
-#include <chrono>
 #include <vector>
 using namespace std;
 
@@ -178,7 +176,7 @@ int main()
 
     findCompFromZeroToZero(array, n);
     findCompFromZeroToZero(array2d, n, m);
-    
+
     PrintArray(array, n);
     cout << endl;
     PrintArray(array2d, n, m);
